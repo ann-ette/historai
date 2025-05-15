@@ -46,8 +46,8 @@ Given more time, these are the next planned upgrades:
 - **Real-time Talking Head Integration** using D-ID real-time API to visually animate character speech.
 - **Personalized Instruction**: Ask the user about their current knowledge level to adapt how the character teaches them (e.g., “explain like I’m 12”).
 - **More Historical Figures** with full conversations and matching voices.
-- **Real-Time Concept Visuals** to support conversational topics to increase engegement, while still keeping it a 2 person conversation.
-- **Hedra Video Intro** to increase initial imersion and attachment, leading into conversational experience.
+- **Real-Time Concept Visuals** to support conversational topics to increase engagement, while still keeping it a 2 person conversation.
+- **Hedra Video Intro** to increase initial immersion and attachment, leading into conversational experience.
 
 ## Acknowledgments
 - ElevenLabs Conversational AI
