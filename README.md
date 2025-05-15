@@ -4,7 +4,7 @@
 [HistorAI Demo Video](attached_assets/HistorAI_Demo_1x1.mp4)
 
 ## Overview
-**HistorAI** is a voice-first learning experience built for ElevenLabs’ Conversational AI demo challenge. It reimagines education by allowing learners to engage directly in spoken conversation with iconic historical figures—starting with **Albert Einstein**.
+**HistorAI** is a voice-first learning experience built to reimagine education by allowing learners to engage directly in spoken conversation with iconic historical figures—starting with **Albert Einstein**.
 
 This immersive single-page application eliminates the need for traditional text interfaces, creating a truly conversational learning environment. The project showcases how voice AI can personalize education through natural dialogue.
 
