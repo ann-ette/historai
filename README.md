@@ -13,7 +13,7 @@ This immersive single-page application eliminates the need for traditional text 
 - 🧠 **Albert Einstein Persona**: Driven by ElevenLabs Conversational AI Agent trained on Einstein’s life and ideas.
 - 📚 **Historical Cast**: Navigation allows switching between other icons like Marcus Aurelius, Marie Curie, and Abraham Lincoln (future expansion).
 - 🧬 **Custom Voice Design**: Einstein's voice created using ElevenLabs’ Voice Design tool to reflect his tone and cadence (without using training data from real voice).
-- 🖼️ **Custom Character Visuals**: Created via a blend of public domain images, Artbreeder, and Playground AI, with final polish in Photoshop Gerative Fill.
+- 🖼️ **Custom Character Visuals**: Created via a blend of public domain images, Artbreeder, and Playground AI, with final polish in Photoshop Generative Fill.
 - ⚙️ **Built with V0.dev + Replit**: Originally forked from the [ElevenLabs Conversational AI Starter](https://v0.dev/community/eleven-labs-conversational-ai-starter-5TN93pl3bRS) then moved to Replit for greater design control and extensibility.
 
 ## How to Run Locally
