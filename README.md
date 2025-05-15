@@ -1,6 +1,8 @@
 # HistorAI: A Voice-First Learning Assistant
 **By Annette Lapham**
 
+[HistorAI Demo Video](attached_assets/HistorAI_Demo_1x1.mp4)
+
 ## Overview
 **HistorAI** is a voice-first learning experience built for ElevenLabs’ Conversational AI demo challenge. It reimagines education by allowing learners to engage directly in spoken conversation with iconic historical figures—starting with **Albert Einstein**.
 
